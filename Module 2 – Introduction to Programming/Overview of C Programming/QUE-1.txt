@@ -1,0 +1,2 @@
+Embedded systems: C is often used to program small, low-power devices that are designed to perform specific tasks, such as controlling a motor or monitoring a sensor.
+Applications: Many applications, such as word processors, web browsers, and media players, are written in C for its performance and flexibility.
